@@ -7,6 +7,9 @@ This Xposed module prevents the S-ID-Checker to detect root.
 Additionally it allows for a different installation source (e.g. Aurora frontend). Since the apk is signed anyway this check is just stupid.
 
 
+Tested on version 2.2.1
+
+
 # Requirements
  - Magisk
  - LSPosed
